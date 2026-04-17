@@ -1,0 +1,5 @@
+{
+  "name": "make-no-mistakes",
+  "description": "Appends 'Make no mistakes.' to every user prompt",
+  "version": "1.0.0"
+}
